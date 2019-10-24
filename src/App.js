@@ -1,9 +1,8 @@
 import React from 'react';
+import VISChart from './VISChart';
 
 function App() {
-  return (
-    <> </>
-  );
+  return <VISChart />
 }
 
 export default App;
